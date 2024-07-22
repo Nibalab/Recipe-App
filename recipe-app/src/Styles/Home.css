@@ -1,0 +1,27 @@
+
+.home-container {
+    padding: 20px;
+  }
+  
+  .recipe-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recipe-item {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
+  .recipe-link {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .recipe-link:hover {
+    text-decoration: underline;
+  }
+  
