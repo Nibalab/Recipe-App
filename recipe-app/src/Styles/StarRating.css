@@ -1,0 +1,16 @@
+.star-rating {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .star-rating .star {
+    font-size: 25px;
+    color: #ddd;
+    cursor: pointer;
+  }
+  
+  .star-rating .star.on {
+    color: #f39c12;
+  }
+  

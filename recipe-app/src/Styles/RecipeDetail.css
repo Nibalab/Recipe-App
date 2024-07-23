@@ -1,0 +1,27 @@
+.recipe-detail {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recipe-detail h1 {
+    margin-bottom: 20px;
+  }
+  
+  .recipe-detail h2 {
+    margin-bottom: 10px;
+  }
+  
+  .recipe-detail ul, .recipe-detail ol {
+    padding-left: 20px;
+  }
+  
+  .recipe-detail ul li, .recipe-detail ol li {
+    margin-bottom: 5px;
+  }
+  
